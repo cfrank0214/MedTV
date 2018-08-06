@@ -8,10 +8,6 @@ body {
   padding-top: 54px;
 }
 
-p {
-  font-size: 14px;
-}
-
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
