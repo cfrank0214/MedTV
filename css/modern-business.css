@@ -8,6 +8,9 @@ body {
   padding-top: 54px;
   font-family: 'Montserrat', sans-serif;
 }
+h1 {
+  margin-top: 25px;
+}
 
 @media (min-width: 992px) {
   body {
