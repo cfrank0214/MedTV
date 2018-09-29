@@ -8,6 +8,9 @@ body {
   padding-top: 54px;
   font-family: 'Montserrat', sans-serif;
 }
+#trendVidHeadline {
+  margin-top: 25px;
+}
 
 @media (min-width: 992px) {
   body {
@@ -23,6 +26,23 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+#strong {
+  /* background-color: rgba(255, 255, 255, 0.3); */
+  border-radius: 5%;
+  color: black;  
+  text-shadow: 1px 1px 0px white,
+    1px 1px 10px rgba(0, 0, 0, 0.15),
+    1px 1px 2px rgba(0, 0, 0, 0.1),
+    1px 1px 20px rgba(0, 0, 0, 0.1);
+}
+
+#skullImage p{
+  text-shadow: 1px 1px 0px white,
+  1px 1px 10px rgba(0, 0, 0, 0.15),
+  1px 1px 2px rgba(0, 0, 0, 0.1),
+  1px 1px 20px rgba(0, 0, 0, 0.1);
 }
 
 .portfolio-item {
